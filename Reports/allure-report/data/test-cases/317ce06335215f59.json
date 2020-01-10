@@ -1,0 +1,48 @@
+{
+  "uid" : "317ce06335215f59",
+  "name" : "test_verify_registration",
+  "fullName" : "test_simple#test_verify_registration",
+  "historyId" : "ef79cb460508d77eaf6060adc6af0a19",
+  "time" : {
+    "start" : 1578206241476,
+    "stop" : 1578206260976,
+    "duration" : 19500
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_simple"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-VCCMI2N"
+  }, {
+    "name" : "thread",
+    "value" : "13100-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_simple"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "317ce06335215f59.json",
+  "parameterValues" : [ ]
+}
